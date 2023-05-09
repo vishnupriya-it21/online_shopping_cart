@@ -1,0 +1,3 @@
+To see local branch names, open your terminal and run git branch :
+To see all remote branch names, run git branch -r :
+To see all local and remote branches, run git branch -a 
